@@ -1,0 +1,15 @@
+{
+  "name": "textureatlascreator",
+  "version": "1.0.0",
+  "description": "creates texture atlases from a folder of aseprite sprite sheets",
+  "main": "TextureAtlasCreator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LegacySystemSoftware",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "jimp": "^0.9.5"
+  }
+}
