@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "file-system": "^2.2.2",
-    "jimp": "^0.9.5"
+    "jimp": "^0.22.7"
   }
 }
